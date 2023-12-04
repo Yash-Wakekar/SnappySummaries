@@ -11,4 +11,10 @@ Tech Stack
 Steps to followed:
 
 1. Clone the repository
-2. open the frontend folder
+2. Open the frontend folder(cd /Summarization-Frontend)
+3. npm install
+4. npm run dev
+5. Open the backend folder (cd Summarization-Backend/SummarizationBackendApi)
+6. pip install -r requirements.txt
+7. python manage.py runserver
+8. Ready to explore
